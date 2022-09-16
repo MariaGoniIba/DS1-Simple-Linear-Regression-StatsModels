@@ -1,4 +1,4 @@
-# Simple-Linear-Regression-Real-State
+# Data Science (DS) project 1: Simple Linear Regression using StatsModels
 Simple linear regression using StatsModels to predict the housing price based on the size
 
 # Credit
